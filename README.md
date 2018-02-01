@@ -1,4 +1,4 @@
-    # User Notes with Authentication
+# User Notes With Authentication
 
 ## Setup
 
