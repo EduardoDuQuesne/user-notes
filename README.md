@@ -1,5 +1,5 @@
 # User Notes With Authentication
-## Nashville Software School Angular Exercise
+## Nashville Software School -  Angular Exercise
 
 ## Setup
 
